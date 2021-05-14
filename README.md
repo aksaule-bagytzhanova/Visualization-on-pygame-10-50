@@ -46,10 +46,7 @@ kg m
 1
 12
 0 16 0 09 0 08
-4 97 10
-
-a f a f
-For the whole cord, I = 4.66 × 10−4 kg ⋅m2 . In speeding up, the average power is
+4 97 10 a f a f For the whole cord, I = 4.66 × 10−4 kg ⋅m2 . In speeding up, the average power is
 P = = =
 × ⋅ ⋅ FH G
 IK J
